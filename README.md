@@ -30,7 +30,7 @@ that reads them, so the pipeline is fully self-contained — no dependency on an
 From a Claude Code session:
 
 ```
-/plugin marketplace add <your-github-user>/plan-pipeline-plugin
+/plugin marketplace add uf-dom/plan-pipeline-plugin
 /plugin install plan-pipeline@plan-pipeline-marketplace
 ```
 
