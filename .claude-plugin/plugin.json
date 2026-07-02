@@ -1,0 +1,9 @@
+{
+  "name": "plan-pipeline",
+  "displayName": "Plan Pipeline",
+  "description": "Analyze → write → audit → execute → review pipeline for non-trivial changes. Runs each role (analyst, planner, auditor, executor) as an independent subagent, passes the brief/plan file between them, and pulls in the human only at real decision gates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alexander Tihonov"
+  }
+}

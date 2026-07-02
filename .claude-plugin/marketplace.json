@@ -1,0 +1,13 @@
+{
+  "name": "plan-pipeline-marketplace",
+  "owner": {
+    "name": "Alexander Tihonov"
+  },
+  "plugins": [
+    {
+      "name": "plan-pipeline",
+      "source": "./",
+      "description": "Analyze → write → audit → execute → review pipeline (run-pipeline conductor + write-plan / plan-audit / plan-analyze / execute-plan skills + plan-analyst / plan-writer / plan-auditor / plan-executor subagents)."
+    }
+  ]
+}
